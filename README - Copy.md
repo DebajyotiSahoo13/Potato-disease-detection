@@ -15,7 +15,7 @@
 - <b>Actual Class : </b>The actual output.
 - <b>Confidence : </b>How confident our model is.
 
-https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-ba18-759bdc667489.mp4
+[https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-ba18-759bdc667489.mp4](https://github.com/DebajyotiSahoo13/WhatsApp-Chat-Analyzer/blob/main/Whatsapp_Analyzer.mp4)
 
 <p align="center">
   <img class="center" src ="/main/sample/potato.png" alt="Drawing" style="width: 1400px; height: 800px">
