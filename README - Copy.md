@@ -1,9 +1,4 @@
 # Potato Leaf Disease Classification
-
-<p align="center">
-  <img class="center" src ="[https://postimg.cc/Wdct7cNZ](https://d3qz1qhhp9wxfa.cloudfront.net/growingproduce/wp-content/uploads/2011/09/17263.jpg)" alt="Drawing" style="width: 1400px; height: 600px">
-</p>
-
 <b>Aim : </b>
 <ul>
   <li>The project focuses on <b>diagnosing plant diseases</b> using Machine Learning.</li>
@@ -18,7 +13,7 @@
 <b>Heroku App : https://potato-leaf-disease-detection.herokuapp.com/</b><br>
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b><br>
 
-<b>Sample Output : </b> The output is showing 3 thing's.
+<b>Sample Output : </b> The output has 3 thing's.
 
 - <b>Predicted Class : </b>The model's output.
 - <b>Actual Class : </b>The actual output.
