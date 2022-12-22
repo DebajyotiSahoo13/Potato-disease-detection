@@ -10,7 +10,7 @@
 </ul>
 
 
-<b>Heroku App : https://potato-leaf-disease-detection.herokuapp.com/</b><br>
+<b>App : https://debajyotisahoo13-potato-disease-detection-app-oy3kxs.streamlit.app</b><br>
 <b>Dataset Source : https://www.kaggle.com/arjuntejaswi/plant-village</b><br>
 
 <b>Sample Output : </b> The output has 3 thing's.
